@@ -1,8 +1,8 @@
 # Secrets-Project
 
 A Node.js + Express web app that fetches and displays secrets from the App Brewery Secrets API. The project demonstrates No Authentication API request, Axios integration, EJS templating, and server-side rendering with Express.
-# Secrets-Project
-##🚀 Features
+
+# 🚀 Features
 Fetches secret data from a third-party API
 
 Uses Axios for API communication
